@@ -41,6 +41,7 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
+![Profile views counter](https://komarev.com/ghpvc/?username=FisherInNorth&&style=flat-square)  
 
 
 </td><td valign="top" width="50%">
@@ -55,7 +56,6 @@
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
   
 
 <br/>  

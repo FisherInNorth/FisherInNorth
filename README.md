@@ -49,7 +49,16 @@
 - Leading group members to complete the "Cloud Classroom" project. The project uses SpringBoot framework and MySQL database, and won the best sharing award of the company.
 
 </td></tr>
+<tr><td>
+  
+### 🏢 Research Experience
+- Student Researcher, FAT32 based xv6 OS adaptation on cv1811 board &emsp; 📌January-August 2023
+- Built the operating system kernel with the help of xv6 system using Docker and QEMU platform. Modified the file system to fat32 file system, read the user program in SD card, provided the system call interface and successfully ran the busybox and other programs. This project won the third prize in the Computer System Capability Competition.
 
+- Student Researcher, Multi-axis mobile robot system using wireless remote interaction &emsp; 📌October 2021-June 2022
+- Participated in the Chinese competition of "RoboMaster", and was responsible for the electronic control part of engineering robots, developed with STM32 standard library and HAL library respectively, and realized 20 functions of this robot stably, which won the national third prize.
+
+</td></tr>
 <tr><td>
 
 <!-- wakatime 统计 -->
